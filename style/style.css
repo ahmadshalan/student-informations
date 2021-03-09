@@ -32,6 +32,8 @@ footer{
 table{
 
     float: right;
+
+    margin-right: 100px;
 }
 table th {
 
@@ -63,7 +65,7 @@ header h1{
 
     margin-left:800px;
 }
-ul li{
+#header1 li{
 
     display: inline-block;
     color: white;
@@ -74,3 +76,4 @@ ul li a{
     color: white;
 }
 
+ul li a 
