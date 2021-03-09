@@ -1,0 +1,76 @@
+
+
+body{
+
+    background-image: url(../bg.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+
+footer{
+
+     text-align: center;
+     margin-top: 700px;
+     color: white;
+}
+
+#form1{
+  
+    border: solid 2px white;
+
+    float: left;
+
+    color: white;
+}
+
+table{
+
+    float: right;
+}
+table th {
+
+border: solid white 2px;
+color: white;
+
+}
+
+
+header {
+    padding: 25px;
+
+    margin-bottom: 250px;
+    padding: 30px;
+    border: white;
+}
+header h1{
+
+    text-align: center;
+    float: left;
+    color: white;
+    margin-right: 500px;
+    margin-left: 700px;
+}
+
+#header {
+
+    float: right;
+
+    margin-left:800px;
+}
+ul li{
+
+    display: inline-block;
+    color: white;
+}
+
+ul li a{
+
+    color: white;
+}
+
